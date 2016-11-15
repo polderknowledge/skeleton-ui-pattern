@@ -1,0 +1,15 @@
+{
+  "author": "{AUTHOR}",
+  "name": "{APPLICATION NAME}",
+  "version": "0.0.1",
+  "description": "{DESCRIPTION}",
+  "license": "{LICENSE}",
+  "repository": {
+    "type": "git",
+    "url": "{REPOSITORY_URL}"
+  },
+  "bugs": {
+    "url": "{REPOSITORY_URL}/issues"
+  },
+  "homepage": "{REPOSITORY_URL}"
+}
