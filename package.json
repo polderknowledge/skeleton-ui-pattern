@@ -11,5 +11,9 @@
   "bugs": {
     "url": "{REPOSITORY_URL}/issues"
   },
-  "homepage": "{REPOSITORY_URL}"
+  "homepage": "{REPOSITORY_URL}",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-scss-lint": "^0.5.0"
+  }
 }
